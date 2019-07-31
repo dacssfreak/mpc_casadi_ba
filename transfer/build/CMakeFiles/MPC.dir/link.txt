@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/MPC.dir/mpc_predictor_casadi.cc.o  -o MPC -Wl,-rpath,/usr/local/lib /usr/local/lib/libcasadi.so 
